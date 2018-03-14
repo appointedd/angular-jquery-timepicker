@@ -1,11 +1,11 @@
 {
-  "name": "angular-jquery-timepicker",
-  "version": "0.13.1",
-  "homepage": "https://github.com/Recras/angular-jquery-timepicker",
+  "name": "ap-angular-jquery-timepicker",
+  "version": "0.13.2",
+  "homepage": "https://github.com/appointedd/angular-jquery-timepicker",
   "description": "An AngularJS directive for jQuery Timepicker",
   "main": "./src/timepickerdirective.js",
   "authors": [
-    "https://github.com/Recras/angular-jquery-timepicker/graphs/contributors"
+    "https://github.com/appointedd/angular-jquery-timepicker/graphs/contributors"
   ],
   "license": "MIT",
   "ignore": [

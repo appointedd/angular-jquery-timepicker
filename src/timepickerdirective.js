@@ -82,6 +82,7 @@ m.directive('uiTimepicker', ['uiTimepickerConfig', '$parse', '$window', function
 
             var resetInput = function(){
                 element.timepicker('setTime', null);
+                element.timepicker('getTime');
             };
 
             var userInput = function() {
